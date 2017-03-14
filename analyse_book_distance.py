@@ -1,6 +1,5 @@
 import sys
 sys.path.insert(0, "./..")
-from text_key_extract.keyextract import *
 import textract
 import jieba
 import jieba.analyse
